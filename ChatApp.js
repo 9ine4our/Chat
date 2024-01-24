@@ -20,7 +20,7 @@ document.write(`
     <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-storage.js"></script>
     <script src="https://www.gstatic.com/firebasejs/8.10.1/firebase-database.js"></script>
     <script src="https://rawcdn.githack.com/9ine4our/Chat/982068e3ccdb990e24a3af333d7bf9584d274a41/config.js"></script>
-    <script src="https://rawcdn.githack.com/9ine4our/Chat/c86c8308528514ca8eaf352bcad38aa6854abfae/scripts.js"></script>
+    <script src="https://rawcdn.githack.com/9ine4our/Chat/68164ae5b5109ba8c5f25d07e6386322f1164816/scripts.js"></script>
   </body>
   </html>
 `);
